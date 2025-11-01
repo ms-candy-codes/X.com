@@ -60,7 +60,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    gap: 2%;
+    gap: 1%;
 }
 
 .one{
@@ -68,7 +68,7 @@ body{
 }
 
 .fa-brands{
-    font-size: 22px;
+    width: 40px;
 }
 
 .fa{
